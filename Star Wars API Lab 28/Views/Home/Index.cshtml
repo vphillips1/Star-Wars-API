@@ -1,0 +1,32 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+
+@model Star_Wars_API_Lab_28.Models.ViewModels.IndexViewModel
+
+
+<form asp-controller="Home" asp-action= "People" method="post">
+
+    <label>Input Person ID</label>
+    <input asp-for="PersonID" />
+
+
+    <button>Search For Person</button>
+
+</form>
+
+<br />
+<br />
+<br />
+<br />
+<form asp-controller="Home" asp-action="Planet" method="post">
+
+    <label>Input Planet ID</label>
+    <input asp-for="PlanetID" />
+
+    <button>Search For Planet</button>
+
+</form>
+

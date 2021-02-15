@@ -1,0 +1,39 @@
+C:\Users\verke\source\repos\Star Wars API Lab 28\Star Wars API Lab 28\obj\Debug\netcoreapp3.1\Star Wars API Lab 28.csprojAssemblyReference.cache
+C:\Users\verke\source\repos\Star Wars API Lab 28\Star Wars API Lab 28\obj\Debug\netcoreapp3.1\Star Wars API Lab 28.AssemblyInfoInputs.cache
+C:\Users\verke\source\repos\Star Wars API Lab 28\Star Wars API Lab 28\obj\Debug\netcoreapp3.1\Star Wars API Lab 28.AssemblyInfo.cs
+C:\Users\verke\source\repos\Star Wars API Lab 28\Star Wars API Lab 28\obj\Debug\netcoreapp3.1\Star Wars API Lab 28.csproj.CoreCompileInputs.cache
+C:\Users\verke\source\repos\Star Wars API Lab 28\Star Wars API Lab 28\obj\Debug\netcoreapp3.1\Star Wars API Lab 28.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\verke\source\repos\Star Wars API Lab 28\Star Wars API Lab 28\obj\Debug\netcoreapp3.1\Star Wars API Lab 28.RazorAssemblyInfo.cache
+C:\Users\verke\source\repos\Star Wars API Lab 28\Star Wars API Lab 28\obj\Debug\netcoreapp3.1\Star Wars API Lab 28.RazorAssemblyInfo.cs
+C:\Users\verke\source\repos\Star Wars API Lab 28\Star Wars API Lab 28\obj\Debug\netcoreapp3.1\Star Wars API Lab 28.TagHelpers.input.cache
+C:\Users\verke\source\repos\Star Wars API Lab 28\Star Wars API Lab 28\obj\Debug\netcoreapp3.1\Star Wars API Lab 28.TagHelpers.output.cache
+C:\Users\verke\source\repos\Star Wars API Lab 28\Star Wars API Lab 28\obj\Debug\netcoreapp3.1\Star Wars API Lab 28.RazorCoreGenerate.cache
+C:\Users\verke\source\repos\Star Wars API Lab 28\Star Wars API Lab 28\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\verke\source\repos\Star Wars API Lab 28\Star Wars API Lab 28\obj\Debug\netcoreapp3.1\Razor\Views\Home\People.cshtml.g.cs
+C:\Users\verke\source\repos\Star Wars API Lab 28\Star Wars API Lab 28\obj\Debug\netcoreapp3.1\Razor\Views\Home\Planet.cshtml.g.cs
+C:\Users\verke\source\repos\Star Wars API Lab 28\Star Wars API Lab 28\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\verke\source\repos\Star Wars API Lab 28\Star Wars API Lab 28\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\verke\source\repos\Star Wars API Lab 28\Star Wars API Lab 28\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\verke\source\repos\Star Wars API Lab 28\Star Wars API Lab 28\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\verke\source\repos\Star Wars API Lab 28\Star Wars API Lab 28\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\verke\source\repos\Star Wars API Lab 28\Star Wars API Lab 28\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\verke\source\repos\Star Wars API Lab 28\Star Wars API Lab 28\obj\Debug\netcoreapp3.1\Star Wars API Lab 28.RazorTargetAssemblyInfo.cache
+C:\Users\verke\source\repos\Star Wars API Lab 28\Star Wars API Lab 28\obj\Debug\netcoreapp3.1\Star Wars API Lab 28.RazorTargetAssemblyInfo.cs
+C:\Users\verke\source\repos\Star Wars API Lab 28\Star Wars API Lab 28\obj\Debug\netcoreapp3.1\Star Wars API Lab 28.dll
+C:\Users\verke\source\repos\Star Wars API Lab 28\Star Wars API Lab 28\obj\Debug\netcoreapp3.1\Star Wars API Lab 28.pdb
+C:\Users\verke\source\repos\Star Wars API Lab 28\Star Wars API Lab 28\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\verke\source\repos\Star Wars API Lab 28\Star Wars API Lab 28\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\verke\source\repos\Star Wars API Lab 28\Star Wars API Lab 28\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\verke\source\repos\Star Wars API Lab 28\Star Wars API Lab 28\bin\Debug\netcoreapp3.1\Star Wars API Lab 28.exe
+C:\Users\verke\source\repos\Star Wars API Lab 28\Star Wars API Lab 28\bin\Debug\netcoreapp3.1\Star Wars API Lab 28.deps.json
+C:\Users\verke\source\repos\Star Wars API Lab 28\Star Wars API Lab 28\bin\Debug\netcoreapp3.1\Star Wars API Lab 28.runtimeconfig.json
+C:\Users\verke\source\repos\Star Wars API Lab 28\Star Wars API Lab 28\bin\Debug\netcoreapp3.1\Star Wars API Lab 28.runtimeconfig.dev.json
+C:\Users\verke\source\repos\Star Wars API Lab 28\Star Wars API Lab 28\bin\Debug\netcoreapp3.1\Star Wars API Lab 28.dll
+C:\Users\verke\source\repos\Star Wars API Lab 28\Star Wars API Lab 28\bin\Debug\netcoreapp3.1\Star Wars API Lab 28.pdb
+C:\Users\verke\source\repos\Star Wars API Lab 28\Star Wars API Lab 28\bin\Debug\netcoreapp3.1\Star Wars API Lab 28.Views.dll
+C:\Users\verke\source\repos\Star Wars API Lab 28\Star Wars API Lab 28\bin\Debug\netcoreapp3.1\Star Wars API Lab 28.Views.pdb
+C:\Users\verke\source\repos\Star Wars API Lab 28\Star Wars API Lab 28\obj\Debug\netcoreapp3.1\Star Wars API Lab 28.Views.pdb
+C:\Users\verke\source\repos\Star Wars API Lab 28\Star Wars API Lab 28\obj\Debug\netcoreapp3.1\staticwebassets\Star Wars API Lab 28.StaticWebAssets.Manifest.cache
+C:\Users\verke\source\repos\Star Wars API Lab 28\Star Wars API Lab 28\obj\Debug\netcoreapp3.1\staticwebassets\Star Wars API Lab 28.StaticWebAssets.xml
+C:\Users\verke\source\repos\Star Wars API Lab 28\Star Wars API Lab 28\obj\Debug\netcoreapp3.1\Star Wars API Lab 28.genruntimeconfig.cache
+C:\Users\verke\source\repos\Star Wars API Lab 28\Star Wars API Lab 28\obj\Debug\netcoreapp3.1\Star Wars API Lab 28.csproj.CopyComplete
